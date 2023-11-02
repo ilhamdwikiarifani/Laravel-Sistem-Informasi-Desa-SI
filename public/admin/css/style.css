@@ -1,0 +1,48 @@
+.btn-blue {
+  color: #ffffff;
+  background-color: #0167f3;
+  border-color: #0167f3;
+}
+
+.bg-core {
+  background-color: #0167f3;
+  color: white;
+}
+
+.text-new {
+  color: #0167f3;
+}
+
+.nav-link-new {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #152638;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+
+.nav-link-new.active {
+  color: white;
+  background-color: #081828;
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.text-sub {
+  color: #8e9eaf;
+}
+
+.text-sub:hover {
+  color: black;
+}
+
+.text-area-style {
+  padding: 2px 5px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}

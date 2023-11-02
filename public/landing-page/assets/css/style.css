@@ -1,0 +1,24 @@
+.table-responsive {
+  overflow-x: auto;
+}
+
+.profilarea {
+  height: 140px;
+}
+
+.areacolor {
+  background-color: #081828;
+  color: white;
+}
+
+.areacolor:hover {
+  color: black;
+}
+
+.titleKD {
+  margin-top: 100px;
+}
+
+.text-blue {
+  color: #0167f3;
+}
